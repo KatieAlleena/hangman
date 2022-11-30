@@ -67,3 +67,4 @@ I've pulled as many links as I could remember researching out of my history and 
   a.)https://livebook.manning.com/book/get-programming-with-javascript/chapter-12/132
   b.) https://stackoverflow.com/questions/64272063/given-array-write-a-function-that-returns-the-item-in-the-array-that-matches-th
   c.) https://forum.freecodecamp.org/t/inability-to-display-questions-javascript/334981
+  d.) https://www.educative.io/answers/how-to-get-user-input-from-command-line-with-javascript
