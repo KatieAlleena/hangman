@@ -27,7 +27,7 @@ const resetGame = () => {
     
   console.log(`
   Let's Play Hangman!
-  Press ctrl+c to stop`);
+  Press Ctrl + C to quit.`);
     
   while (lettersLeft > 0 && guesses > 0) {
     console.log(answerList.join(" "));
