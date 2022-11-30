@@ -6,7 +6,9 @@ A hangman game created with Javascript for CanCode's Javascript Fundamentals Cla
 Change Log:
 11/14/22 -- Initial Commit, package.json created. Created index.js. Copied over word-bank.js
 
-11/28/22 -- Committing basic version of the game. Can't figure out a clean way to draw a hangman, so I've changed it to just letters for now. 
+11/28/22 -- Committing basic version of the game. Can't figure out a clean way to draw a hangman, so I've changed it to just letters for now.
+
+11/30/22 -- Final updates! 
 
 
 //
@@ -17,6 +19,8 @@ Uh It's just turning out weird.
 2. I wanted to make the game tell me if I guessed the same letter I had guessed already ... but I confused myself, broke my game, and decided to leave that out. 
 
 3. I would have rather had the game remind me to use letters if I input a symbol or a word or a number, but it just continues on. Since it's not broken, I'm deciding to leave it as is.
+
+4. Answer lines aren't centered with the rest of the game text. It's weird. Sorry.
 
 
 //
@@ -58,3 +62,8 @@ I've pulled as many links as I could remember researching out of my history and 
 
 6. I still am having formatting issues, but this helped a little:
   a.) https://www.samanthaming.com/tidbits/58-multi-line-strings-with-template-literals/
+
+7. Additional links I forgot to include to explain some of what others were trying in above resources: 
+  a.)https://livebook.manning.com/book/get-programming-with-javascript/chapter-12/132
+  b.) https://stackoverflow.com/questions/64272063/given-array-write-a-function-that-returns-the-item-in-the-array-that-matches-th
+  c.) https://forum.freecodecamp.org/t/inability-to-display-questions-javascript/334981
