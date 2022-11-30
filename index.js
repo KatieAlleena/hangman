@@ -24,7 +24,9 @@ const resetGame = () => {
   };
     
   getAnswerList();
-    
+ 
+  // This part makes sure the input is a string when the game starts. 
+  
   console.log(`
   Let's Play Hangman!
   Press Ctrl + C to quit.`);
