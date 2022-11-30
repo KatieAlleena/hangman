@@ -36,7 +36,7 @@ const resetGame = () => {
 
 
     /* In this game, the ideal input is a string which is one letter. If it's anything else, we want the game to keep going. 
-    Instead of using the alphabet as a variable, we're using regular expressions. See readme for my sources because I don't *really* get it either lol */     
+    Instead of using the alphabet as a variable, we're using regular expressions. See readme for my sources because I don't *really* get it either... */     
       
     const checkInput = () => {
       if (guess === "") {
